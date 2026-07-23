@@ -1,7 +1,6 @@
-![avatar] (file_000000005e7071f5813e5fd62373ce60.png)
-
-
 # 🤖 Clara AI
+
+![Avatar da Clara](nome-do-arquivo.png)
 
 Assistente virtual criada para explorar aplicações de Inteligência Artificial Generativa, automação e produtividade.
 
