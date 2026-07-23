@@ -42,3 +42,11 @@ Como a Clara pode apoiar:
 
 Projeto em desenvolvimento, com foco na aplicação de IA Generativa para apoiar processos comerciais.
 
+## 🛠️ Ferramentas e tecnologias utilizadas
+
+- **IA Generativa:** para construção da lógica de interação e respostas da assistente.
+- **Engenharia de Prompts:** definição de comportamento, contexto e objetivos da Clara.
+- **Lovable:** desenvolvimento do protótipo da interface da aplicação.
+- **GitHub:** versionamento, documentação e organização do projeto.
+- **Markdown:** criação da documentação técnica.
+
