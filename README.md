@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="clara-avatar.png" width="200">
+  <img src="https://github.com/bethanalytics/Clara-AI/blob/main/Clara_avatar" width="200">
 </p>
 
 # 🤖 Clara AI
