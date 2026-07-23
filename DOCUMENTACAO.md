@@ -1,13 +1,44 @@
-# 📚 Documentação da Clara AI
+# 🤖 Clara AI - Documentação
 
-## Sobre
+## 🎯 Objetivo do projeto
 
-A Clara AI é um projeto experimental de assistente virtual utilizando conceitos de Inteligência Artificial Generativa.
+A Clara AI foi criada para apoiar o Controle Comercial, utilizando Inteligência Artificial para facilitar o acesso a informações, otimizar processos e apoiar as atividades do time.
 
-## Objetivo
+## 👥 Público atendido
 
-Explorar aplicações de IA, automação e produtividade.
+### 🤝 Vendedores
+Como a Clara pode apoiar:
+- Consulta rápida de informações comerciais.
+- Apoio durante o atendimento ao cliente.
+- Redução do tempo de busca por informações.
 
-## Desenvolvimento
+### 🎧 SAC
+Como a Clara pode apoiar:
+- Localização de orientações e procedimentos.
+- Padronização de informações.
+- Agilidade no atendimento.
 
-Projeto em evolução, com novos recursos sendo adicionados.
+### 📊 Gestão
+Como a Clara pode apoiar:
+- Acompanhamento de informações.
+- Apoio na análise de dados.
+- Suporte à tomada de decisão.
+
+## 🖥️ Interface da solução
+
+### Tela inicial
+
+![Tela inicial da Clara](https://github.com/bethanalytics/Clara-AI/blob/main/assets/Inicio)
+
+### O Conceito da Clara
+
+![Conceito da Clara](https://github.com/bethanalytics/Clara-AI/blob/main/assets/Conceito)
+
+### Chat
+
+![Chat da Clara](https://github.com/bethanalytics/Clara-AI/blob/main/assets/Chat)
+
+## 🚀 Evolução do projeto
+
+Projeto em desenvolvimento, com foco na aplicação de IA Generativa para apoiar processos comerciais.
+
