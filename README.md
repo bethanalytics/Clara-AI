@@ -1,6 +1,6 @@
 # 🤖 Clara AI
 
-![Avatar da Clara](nome-do-arquivo.png)
+![Avatar da Clara](https://github.com/bethanalytics/Clara-AI/blob/main/Clara_avatar)
 
 Assistente virtual criada para explorar aplicações de Inteligência Artificial Generativa, automação e produtividade.
 
